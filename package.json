@@ -2,6 +2,7 @@
   "name": "calculator-app-pro",
   "version": "1.0.0",
   "description": "Electron calculator app (organized professional structure)",
+  "author": "Vu The Phuong",
   "main": "src/main/main.js",
   "type": "commonjs",
   "scripts": {
